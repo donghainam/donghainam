@@ -16,5 +16,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/namdh2119.bachkhoa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="namdh2119.bachkhoa" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/donghainam2119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="namdh2119.bachkhoa" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/donghainam2119" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/alejolg-blue.svg?logo=linkedin" alt="namdh2119.bachkhoa" height="30" width="40" /></a>
 </p>
